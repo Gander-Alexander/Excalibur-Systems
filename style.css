@@ -259,7 +259,11 @@ h3 {
     margin-left: .8em;
 }
 
-
+@media screen and (max-width: 800px) {
+    .card {
+        margin-left: 5em;
+    }
+}
 
 
 @media screen and (max-width: 600px) {
@@ -268,7 +272,11 @@ h3 {
     }
 }
 
-
+@media screen and (max-width: 500px) {
+    .card {
+        margin-left: 3em;
+    }
+}
 
 
 
