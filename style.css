@@ -262,7 +262,11 @@ h3 {
 
 
 
-
+@media screen and (max-width: 600px) {
+    .card {
+        margin-left: 5em;
+    }
+}
 
 
 
